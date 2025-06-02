@@ -31,8 +31,35 @@ Kami Mengerjakan Project Ini di dalam satu device karena salah satu laptop tidak
 
 ---
 
-## 📦 Tentang Proyek
-**Thriftopia** adalah aplikasi marketplace produk *thrift* berbasis Laravel. Proyek ini dikembangkan sebagai bagian dari pembelajaran web framework PHP modern menggunakan Laravel.
+## 🛍️ Deskripsi Website Thriftopia
+Thriftopia adalah platform belanja online yang menyediakan berbagai produk fashion thrift (secondhand) dengan tampilan modern dan terorganisir. Website ini memungkinkan pengguna untuk menjelajahi berbagai kategori pakaian dan aksesori secara mudah, serta menampilkan produk-produk rekomendasi.
+
+##🎨 Fitur dan Desain (UI)
+Header dan Branding
+- Logo/brand “Thriftopia” berada di kiri atas dengan warna biru yang mencolok.
+- Terdapat kolom pencarian di bagian atas untuk memudahkan pengguna menemukan produk.
+
+Navigasi Kategori
+- Bar navigasi horizontal dengan kategori utama: Atasan, Bawahan, Aksesoris, dan Sepatu.
+- Ikon rumah menunjukkan halaman utama (home).
+- Di kanan atas, terdapat ikon keranjang belanja dan akun pengguna.
+
+Bagian Kategori Produk
+Terdapat tampilan slider horizontal berisi kategori produk seperti:
+- Baju Kaos
+- Celana Panjang
+- Celana Pendek
+- Jaket
+- Hoodie
+- Kemeja
+- Topi
+- Sepatu
+- Ikat Pinggang
+Gambar tiap kategori terlihat jelas dan profesional, membantu pengguna mengenali produk.
+
+Bagian Rekomendasi Produk
+Menampilkan produk-produk unggulan dalam bentuk grid.
+Setiap item dilengkapi gambar yang rapi dan mencolok.
 
 ---
 
