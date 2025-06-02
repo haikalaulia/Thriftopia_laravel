@@ -1,0 +1,22 @@
+id,nama,harga,toko,gambar,kategori,subkategori
+1,Blouse Floral,50000,Thrift Atasan,blouse.jpg,Atasan,Baju Kaos
+2,Kaos Polos,25000,Kaos Murah,kaos.jpg,Atasan,Baju Kaos
+3,Kaos Adidas,60000,Sporty Thrift,addidas.jpg,Atasan,Baju Kaos
+4,Kemeja Uniqlo,70000,Kemeja Keren,kemejauniqlo.jpg,Atasan,Kemeja
+5,Jaket,70000,mantap store,jaket.jpg,Atasan,Jaket
+6,Hoodie,70000,HOodie,hoodie.jpg,Atasan,Hoodie
+7,Celana Jeans,70000,Bawahan Store,cjeans.jpg,Bawahan,Celana Panjang
+8,Rok Hitam,55000,Thrift Rok,rokhitam.jpg,Bawahan,Rok
+9,Celana Army,45000,Celana Keren,celanaarmy.jpg,Bawahan,Celana Panjang
+10,Celana Kulot,40000,Kulot Cantik,celanakulot.jpg,Bawahan,Celana Panjang
+11,Celana Pendek,40000,mantap store,cpendek.jpg,Bawahan,Celana Pendek
+12,Kacamata Hitam,20000,AksesorisKeren,kacamata.jpg,Aksesoris,Kacamata
+13,Anting Cantik,15000,Toko Aksesori,anting.jpg,Aksesoris,Anting
+14,Gelang Kulit,18000,Gaya Kulit,ikatpkulit.jpg,Aksesoris,Ikat Pinggang
+15,topi,70000,hatstore,topi.jpg,Aksesoris,Topi
+16,topi Coklat,70000,hatstore,topicoklat.jpg,Aksesoris,Topi
+17,Sepatu Sneakers,90000,Preloved Shoes,sepatu.jpg,Sepatu,Sepatu
+18,Sandal Nike,30000,Toko Sandal,sandalnike.jpg,Sepatu,Sepatu
+19,Flat Shoes,25000,Flat Cantik,flatshoes.jpg,Sepatu,Sepatu
+20,Sepatu Converse,80000,Retro Shoes,sepatuConverse.jpg,Sepatu,Sepatu
+21,Sepatu Vans,85000,Vans Store,sepatuvans.jpg,Sepatu,Sepatu
