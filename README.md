@@ -21,23 +21,88 @@
 
 ---
 
-# Thriftopia - A Laravel-Based Thrift Marketplace
+# Thriftopia - Laravel Thrift Marketplace
 
 ## 👨‍💻 Kelompok Pengembang
-
 - **Haikal Aulia** (2308017010063)  
 - **Dwi Hamdan Sukran** (2308017010065)
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## 📦 Tentang Proyek
+**Thriftopia** adalah aplikasi marketplace produk *thrift* berbasis Laravel. Proyek ini dikembangkan sebagai bagian dari pembelajaran web framework PHP modern menggunakan Laravel.
 
-Untuk menjalankan web ini, Anda perlu mengikuti beberapa langkah instalasi dan menjalankan server Laravel secara lokal:
+---
 
-### Terminal 1: Backend (Laravel)
+## 🚀 Cara Menjalankan Proyek Laravel
 
-#### 1. Clone Repository
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
 
+### 1. Clone Repository
 ```bash
 git clone https://github.com/haikalaulia/Thriftopia_laravel.git
 cd Thriftopia_laravel
+```
+
+### 2. Install Dependensi Backend
+```bash
+composer install
+```
+
+### 3. Salin File .env dari Template
+```bash
+cp .env.example .env
+```
+
+### 4. Konfigurasi Database
+Edit file `.env` dan sesuaikan bagian berikut:
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=thriftopia
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+### 5. Generate Application Key
+```bash
+php artisan key:generate
+```
+
+### 6. Import Database via phpMyAdmin
+1. Buka `http://localhost/phpmyadmin`
+2. Buat database baru dengan nama: `thriftopia`
+3. Pilih database tersebut → klik tab **Import**
+4. Pilih file SQL dump (`.sql`) dari folder proyek
+5. Klik **Go**
+
+### 7. Install Dependensi Frontend
+```bash
+npm install
+```
+
+### 8. Build Aset untuk Produksi
+```bash
+npm run build
+```
+
+### 9. Jalankan Server Frontend (Opsional)
+```bash
+npm run dev
+```
+*Jalankan ini saat mengembangkan agar perubahan frontend terlihat secara langsung.*
+
+### 10. Jalankan Server Laravel
+```bash
+php artisan serve
+```
+
+Akses aplikasi di: **http://127.0.0.1:8000**
+
+---
+
+## 📚 Referensi Laravel
+- 📘 [Dokumentasi Laravel](https://laravel.com/docs)
+- 🚀 [Laravel Bootcamp](https://bootcamp.laravel.com)
+- 🎥 [Laracasts](https://laracasts.com)
