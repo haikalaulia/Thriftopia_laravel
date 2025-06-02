@@ -52,8 +52,6 @@ composer install
 ```
 
 ### 3. Salin File .env dari Template
-File databasenya berada di folder dumpfile
-
 ```bash
 cp .env.example .env
 ```
@@ -75,6 +73,7 @@ php artisan key:generate
 ```
 
 ### 6. Import Database via phpMyAdmin
+File databasenya berada di folder dumpfile
 1. Buka `http://localhost/phpmyadmin`
 2. Buat database baru dengan nama: `thriftopia`
 3. Pilih database tersebut → klik tab **Import**
