@@ -34,7 +34,7 @@ Kami Mengerjakan Project Ini di dalam satu device karena salah satu laptop tidak
 ## 🛍️ Deskripsi Website Thriftopia
 Thriftopia adalah platform belanja online yang menyediakan berbagai produk fashion thrift (secondhand) dengan tampilan modern dan terorganisir. Website ini memungkinkan pengguna untuk menjelajahi berbagai kategori pakaian dan aksesori secara mudah, serta menampilkan produk-produk rekomendasi.
 
-##🎨 Fitur dan Desain (UI)
+## 🎨 Fitur dan Desain (UI)
 Header dan Branding
 - Logo/brand “Thriftopia” berada di kiri atas dengan warna biru yang mencolok.
 - Terdapat kolom pencarian di bagian atas untuk memudahkan pengguna menemukan produk.
