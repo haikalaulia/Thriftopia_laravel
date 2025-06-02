@@ -27,6 +27,8 @@
 - **Haikal Aulia** (2308017010063)  
 - **Dwi Hamdan Sukran** (2308017010065)
 
+Kami Mengerjakan Project Ini di dalam satu device karena salah satu laptop tidak mendukung
+
 ---
 
 ## 📦 Tentang Proyek
@@ -50,6 +52,8 @@ composer install
 ```
 
 ### 3. Salin File .env dari Template
+File databasenya berada di folder dumpfile
+
 ```bash
 cp .env.example .env
 ```
